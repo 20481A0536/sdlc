@@ -1,3 +1,14 @@
+			Title
 1.Introduction
-2.Body
+	hook
+	Engaging
+	open
+	Statement
+	background
+	thesis
+2.Body Point
+	supporting
+	argument
+	evidence
+	analysis
 3.Conclusion
